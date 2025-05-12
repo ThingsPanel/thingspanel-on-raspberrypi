@@ -309,8 +309,7 @@ A: 目前推荐的更新方法是重新运行安装脚本：
 
 ## 更多资源
 
-- [ThingsPanel 官方文档](https://docs.thingspanel.io)
+- [ThingsPanel 官方文档](https://thingspanel.io)
 - [ThingsPanel GitHub 仓库](https://github.com/ThingsPanel)
-- [ThingsPanel 社区](https://thingspanel.io/community)
 
 如果您在使用过程中遇到任何问题，或有任何建议，欢迎在 GitHub 上提交 issue 或加入我们的社区讨论。
